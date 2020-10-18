@@ -22,6 +22,12 @@ The Social Vulnerability dataset splits Boston into 180 Census tracts, and conta
 
 Across the city of Boston, people of color are overwhelmingly the largest represented socially vulnerable group, making up over half of the population. In contrast, older adults and residents with disabilities are generally less represented in the city. It may be important to consider overall city percentages when determining how to allocate resources in ways that will result in the most impactful solutions. Below is a plot that shows the composition of the 7 defined socially vulnerable populations within the city.
 
+<p align="center">
+<img src="/imgs/vul_gps_prop.png" width="600" height="500"/>
+</p>
+
 *Socially Vulnerable Populations by Neighborhood*
 
 Considering the city percentages above, not surprisingly, most neighborhoods within Boston have high percentages of people of color; in particular Roxbury and Mattapan have populations that are almost entirely composed of people of color. Roxbury also has the tract with the highest percentage of low to no income residents (74.4%), so it is understandable that it is the neighborhood with one of the highest percentages as well. Interestingly, the Harbor Islands is the only neighborhood with no representation of children. The plot below illustrates how each neighborhood breaks down by percentage of each socially vulnerable group. We observe that many neighborhoods populations are above and below 100%, which demonstrates that socially vulnerable populations make up large (but not entire) parts of most neighborhoods and that there is a lot of overlap between socially vulnerable groups (i.e. many people that are in one group of probably also represented in other groups); these overlaps are also important considerations when designing effective solutions to climate change.
+
+![Social_Vulnerable_Neighborhood](imgs/vul_gps_neighbor.png)
